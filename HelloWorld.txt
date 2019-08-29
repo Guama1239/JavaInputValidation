@@ -1,0 +1,97 @@
+ 
+  ----jGRASP exec: java ClassName
+ Hello WorldMy name is Luis Rosales
+ Welcome to CS 200.
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HelloWorld
+ Hello WorldMy name is Luis Rosales
+ Welcome to CS 200.
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HelloWorld
+ Hello WorldMy name is Luis Rosales
+ Welcome to CS 200.4
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HelloWorld
+ Hello WorldMy name is Luis Rosales
+ Welcome to CS 200.4
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HelloWorld
+ Hello WorldMy name is Luis Rosales
+ Welcome to CS 200.4
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HelloWorld
+ Hello WorldMy name is Luis Rosales
+ Welcome to CS 200.
+ 4
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HelloWorld
+ Hello WorldMy name is Luis Rosales
+ Welcome to CS 200.
+ Exception in thread "main" java.lang.ArithmeticException: / by zero
+ 	at HelloWorld.main(HelloWorld.java:8)
+ 
+  ----jGRASP wedge2: exit code for process is 1.
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HelloWorld
+ Hello WorldMy name is Luis Rosales
+ Welcome to CS 200.
+ 4
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HelloWorld
+ Hello WorldMy name is Luis Rosales
+ Welcome to CS 200.
+ 4
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HelloWorld
+ Hello WorldMy name is Luis Rosales
+ Welcome to CS 200.
+ 22
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HelloWorld
+ Hello WorldMy name is Luis Rosales
+ Welcome to CS 200.
+ 22
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HelloWorld
+ Hello WorldMy name is Luis Rosales
+ Welcome to CS 200.
+ 22
+ 4
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HelloWorld
+ Hello WorldMy name is Luis Rosales
+ Welcome to CS 200.
+ 22
+ 4
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HelloWorld
+ Hello WorldMy name is Luis Rosales
+ Welcome to CS 200.
+ 22
+ 4
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HelloWorld
+ Hello WorldMy name is Luis Rosales
+ Welcome to CS 200.
+ 22
+ 4
+  ----jGRASP: operation complete.
+ 
