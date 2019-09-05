@@ -1,0 +1,67 @@
+ 
+  ----jGRASP exec: java SumSpaced
+ Hello World My name is Luis Rosales
+ Welcome to CS 200.
+ 22
+ 4
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java SumSpaced
+ Hello World My name is Luis Rosales
+ Welcome to CS 200.
+ You entered 12 and 11
+ The product is 
+ 132
+ The sum is 
+ 23
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java SumSpaced
+ Hello World My name is Luis Rosales
+ Welcome to CS 200.
+ You entered 12 and 11
+ The product is 
+ 132The sum is 
+ 23
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java SumSpaced
+ Hello World My name is Luis Rosales
+ Welcome to CS 200.
+ You entered 12 and 11
+ The product is 132
+ The sum is 23
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java SumSpaced
+ Hello World My name is Luis Rosales
+ Welcome to CS 200.
+ You entered 12 and 11
+ The product is 132
+ The sum is 1Spring
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java SumSpaced
+ Hello World My name is Luis Rosales
+ Welcome to CS 200.
+ You entered 12 and 11
+ The product is 132
+ The sum is 2
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java SumSpaced
+ Hello World My name is Luis Rosales
+ Welcome to CS 200.
+ You entered 12 and 11
+ The product is 132
+ The sum is 2Spring
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java SumSpaced
+ Hello World My name is Luis Rosales
+ Welcome to CS 200.
+ You entered 12 and 11
+ The product is 12*11The sum is 12+11
+  ----jGRASP: operation complete.
+ 
