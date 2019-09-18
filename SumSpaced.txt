@@ -1,67 +1,50 @@
  
   ----jGRASP exec: java SumSpaced
- Hello World My name is Luis Rosales
- Welcome to CS 200.
+ Enter two integers: 22
  22
- 4
+ You entered: 22 and 22
+ The product is 44
+ The sum is 484
   ----jGRASP: operation complete.
  
   ----jGRASP exec: java SumSpaced
- Hello World My name is Luis Rosales
- Welcome to CS 200.
- You entered 12 and 11
- The product is 
- 132
- The sum is 
- 23
- 
-  ----jGRASP: operation complete.
- 
-  ----jGRASP exec: java SumSpaced
- Hello World My name is Luis Rosales
- Welcome to CS 200.
- You entered 12 and 11
- The product is 
- 132The sum is 
- 23
-  ----jGRASP: operation complete.
- 
-  ----jGRASP exec: java SumSpaced
- Hello World My name is Luis Rosales
- Welcome to CS 200.
- You entered 12 and 11
- The product is 132
- The sum is 23
-  ----jGRASP: operation complete.
- 
-  ----jGRASP exec: java SumSpaced
- Hello World My name is Luis Rosales
- Welcome to CS 200.
- You entered 12 and 11
- The product is 132
- The sum is 1Spring
-  ----jGRASP: operation complete.
- 
-  ----jGRASP exec: java SumSpaced
- Hello World My name is Luis Rosales
- Welcome to CS 200.
- You entered 12 and 11
- The product is 132
+ Enter two integers: 1 1
+ You entered: 1 and 1
+ The product is 1
  The sum is 2
   ----jGRASP: operation complete.
  
   ----jGRASP exec: java SumSpaced
- Hello World My name is Luis Rosales
- Welcome to CS 200.
- You entered 12 and 11
- The product is 132
- The sum is 2Spring
+ Enter two integers: 2
+ 3
+ You entered: 2 and 3
+ The product is 6
+ The sum is 5
   ----jGRASP: operation complete.
+ clear
+ cls
+ esit
+ exit
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
   ----jGRASP exec: java SumSpaced
- Hello World My name is Luis Rosales
- Welcome to CS 200.
- You entered 12 and 11
- The product is 12*11The sum is 12+11
+ Enter two integers: 7 15
+ You entered: 7 and 15
+ The product is 105
+ The sum is 22
   ----jGRASP: operation complete.
  

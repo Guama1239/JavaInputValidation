@@ -1,0 +1,15 @@
+ 
+  ----jGRASP exec: java Problem2Sep18
+ Given the following variable declarations 
+ int a = 2, b = 7, m = 6, n =3, o = 14;
+ double d = 2.0;
+ What is the value of each of the following independent expressions?
+ 
+ a + b - m + n = 6
+ n - a + '' + (o - b) = 17
+ c + d + (b - m) + (o - b) =  Fall2.017
+ b + m + c + o = 13 Fall14
+ 
+ Results of operations shown 
+  ----jGRASP: operation complete.
+ 

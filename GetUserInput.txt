@@ -1,0 +1,249 @@
+ 
+  ----jGRASP exec: java SumSpaced
+ Hello World My name is Luis Rosales
+ Welcome to CS 200.
+ 22
+ 4
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java SumSpaced
+ Hello World My name is Luis Rosales
+ Welcome to CS 200.
+ You entered 12 and 11
+ The product is 
+ 132
+ The sum is 
+ 23
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java SumSpaced
+ Hello World My name is Luis Rosales
+ Welcome to CS 200.
+ You entered 12 and 11
+ The product is 
+ 132The sum is 
+ 23
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java SumSpaced
+ Hello World My name is Luis Rosales
+ Welcome to CS 200.
+ You entered 12 and 11
+ The product is 132
+ The sum is 23
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java SumSpaced
+ Hello World My name is Luis Rosales
+ Welcome to CS 200.
+ You entered 12 and 11
+ The product is 132
+ The sum is 1Spring
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java SumSpaced
+ Hello World My name is Luis Rosales
+ Welcome to CS 200.
+ You entered 12 and 11
+ The product is 132
+ The sum is 2
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java SumSpaced
+ Hello World My name is Luis Rosales
+ Welcome to CS 200.
+ You entered 12 and 11
+ The product is 132
+ The sum is 2Spring
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java SumSpaced
+ Hello World My name is Luis Rosales
+ Welcome to CS 200.
+ You entered 12 and 11
+ The product is 12*11The sum is 12+11
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WeekOneReview
+ Welcome to CS200. Week 2.
+ Today we are learning about input from user
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WeekOneReview
+ Welcome to CS200. Week 2.
+ Today we are learning about input from user
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WeekTwo
+ This is a String 
+ OneTwo
+ three12
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WeekTwo
+ This is a String 
+ OneTwo
+ three12
+ 6four
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WeekTwo
+ This is a String 
+ OneTwo
+ three12
+ 6four
+ three3
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java Variables
+ 10
+ OneTwo
+ three12
+ 6four
+ three3
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java Variables
+ 10
+ 3727
+ three12
+ 6four
+ three3
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java Variables
+ 10
+ 3727
+ 7
+ three12
+ 6four
+ three3
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java Variables
+ 10
+ 3727
+ 7
+ three12
+ 6four
+ three3
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java GetUserInput
+ 10
+ 3727
+ 7
+ three12
+ 6four
+ three3
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java GetUserInput
+  Enter your full name: luis rosales
+ Your name: luis  rosales
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java GetUserInput
+  Enter your full name: 
+  ----jGRASP: process ended by user.
+ 
+  ----jGRASP exec: java GetUserInput
+  Enter your full name: luis rosales
+ Enter your age: 47
+ Enter 2 integers: 11
+ 33
+ 
+ First name: luis
+ Rest of name:  rosales
+ Full Name: luis rosales
+ Your age: 47years old
+ 11 + 33 = 44
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java GetUserInput
+  Enter your full name: panchito
+ Enter your age: 78
+ Enter 2 integers: ww
+ Exception in thread "main" java.util.InputMismatchException
+ 	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+ 	at java.base/java.util.Scanner.next(Scanner.java:1594)
+ 	at java.base/java.util.Scanner.nextInt(Scanner.java:2258)
+ 	at java.base/java.util.Scanner.nextInt(Scanner.java:2212)
+ 	at GetUserInput.main(GetUserInput.java:21)
+ 
+  ----jGRASP wedge2: exit code for process is 1.
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java GetUserInput
+  Enter your full name: carlos
+ Enter your age: 44
+ Enter 2 integers: 2222 2
+ 
+ First name: carlos
+ Rest of name: 
+ Full Name: carlos
+ Your age: 44years old
+ 2222 + 2 = 2224
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WeekTwo
+ This is a String 
+ OneTwo
+ three12
+ 6four
+ three3
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java Variables
+ 10
+ 3727
+ 7
+ three12
+ 6four
+ three3
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java GetUserInput
+  Enter your full name: luis
+ Enter your age: 37
+ Enter 2 integers: 22 22
+ 
+ First name: luis
+ Rest of name: 
+ Full Name: luis
+ Your age: 37years old
+ 22 + 22 = 44
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java GetUserInput
+  Enter your full name: luis
+ Enter your age: 333
+ Enter 2 integers: 2
+ 2
+ 
+ First name: luis
+ Rest of name: 
+ Full Name: luis
+ Your age: 333 years old
+ 2 + 2 = 4
+ 
+  ----jGRASP: operation complete.
+ exit
+ 

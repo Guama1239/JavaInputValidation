@@ -1,0 +1,21 @@
+ 
+  ----jGRASP exec: java SumProductSep18
+ What is your name? Jon Doe
+ Enter two integers: 8 9
+ 
+ Hi Jon Doe. You entered 8 and 9
+ The product of 8 x 9 is 72
+ The sum of 8 + 9 is 17
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java SumProductSep18
+ What is your name? Jim Ryan
+ Enter two integers: 21 6
+ 
+ Hi Jim Ryan. You entered 21 and 6
+ The product of 21 x 6 is 126
+ The sum of 21 + 6 is 27
+ 
+  ----jGRASP: operation complete.
+ 
