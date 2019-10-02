@@ -1,0 +1,13 @@
+ 
+  ----jGRASP exec: java HeightInches
+ Enter your height in inches: 63
+ Your height is 5 feet and 3 inches.
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HeightInches
+ Enter your height in inches: 72
+ Your height is 6 feet and 0 inches.
+ 
+  ----jGRASP: operation complete.
+ 

@@ -1,0 +1,14 @@
+ 
+  ----jGRASP exec: java Pizza
+ Let's get TACOS!!!!...mmmmm. NO
+ TACOS are complicated!! let's get Pizza instead!! 
+ If I order 2 small 7 inch pizzas, I will get :76.96902001294993 square inches of pizza
+ and I will get 153.93804002589985 square inches of pizza when I order 1 - 14 inch pizza.
+ I will get 115.45353001942489 square inches more pizza when I order 1 - 14 inch pizza
+ than I would get from ordering 1 - 7 inch pizza.
+ If I order 1 - 14 inch pizza and share it with 6 friends,
+ I will get 25.656340004316643 square inches to eat by myself.
+ SEE Pizza is not COMPLICATED!!!Let's order PIZZA!.... Where are you going???
+ 
+  ----jGRASP: operation complete.
+ 

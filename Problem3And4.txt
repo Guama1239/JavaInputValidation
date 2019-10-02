@@ -1,0 +1,16 @@
+ 
+  ----jGRASP exec: java Problem3And4
+  Problem 3 Solution 
+  a + b - m + n = 6
+  n - a + '' + (o -b) = 17
+  c + d + (b - m ) + ( o - b ) = Fall2.017
+  a * b % a + m / n = 2
+  b / a + c + m % n = 3Fall0
+  Problem 4 Solution 
+  u + v * w + x = 24
+  u + y % v * w + x = 19
+  u / v * w = 0
+  v + s + x / v = 3String2
+ 
+  ----jGRASP: operation complete.
+ 

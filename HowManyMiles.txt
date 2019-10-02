@@ -1,0 +1,22 @@
+ 
+  ----jGRASP exec: java HowManyMiles
+ Enter a distance in miles: 3
+ The distance in inches is: 190080
+ Your new distance is 31680 ft. and 5 in
+ The total miles is now 6.000078914141414
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HowManyMiles
+ Enter a distance in miles: 4
+ The distance in inches is: 253440
+ Your new distance is 42240 ft. and 5 in
+ The total miles is now 8.000078914141413
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HowManyMiles
+ Enter a distance in miles: 1
+ The distance in inches is: 63360
+ Your new distance is 10560 ft. and 5 in
+ The total miles is now 2.000078914141414
+  ----jGRASP: operation complete.
+ 

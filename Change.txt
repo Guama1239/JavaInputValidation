@@ -1,0 +1,29 @@
+ 
+  ----jGRASP exec: java Change
+ Enter the item cost in cents: 15
+ Your change is: 
+ 3 quarters
+ 1 dimes
+ 0 nickles
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java Change
+ Enter the item cost in cents: 100
+ Your change is: 
+ 0 quarters
+ 0 dimes
+ 0 nickles
+ 
+  ----jGRASP: operation complete.
+ 35
+ 
+  ----jGRASP exec: java Change
+ Enter the item cost in cents: 35
+ Your change is: 
+ 2 quarters
+ 1 dimes
+ 1 nickles
+ 
+  ----jGRASP: operation complete.
+ 
