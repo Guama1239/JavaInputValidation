@@ -1,0 +1,33 @@
+ 
+  ----jGRASP exec: java Makes10
+ First number: -10
+ Second number: 20
+ -10 + 20 sums up to 10
+ Neither number is 10
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java Makes10
+ First number: 10
+ Second number: 0
+ 10 + 0 sums up to 10
+ One number is 10
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java Makes10
+ First number: 10
+ Second number: 33
+ Does not sum up to 10
+ One number is 10
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java Makes10
+ First number: 3
+ Second number: 12
+ Does not sum up to 10
+ Neither number is 10
+ 
+  ----jGRASP: operation complete.
+ 

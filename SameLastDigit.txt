@@ -1,0 +1,15 @@
+ 
+  ----jGRASP exec: java SameLastDigit
+ First number: 21358
+ Second number: 447898
+ Same last digit
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java SameLastDigit
+ First number: 321335
+ Second number: 321334
+ Different last digits
+ 
+  ----jGRASP: operation complete.
+ 

@@ -1,0 +1,29 @@
+ 
+  ----jGRASP exec: java IsFactor
+ Enter the first number: 5
+ Enter the second number: 65
+ 5 is a factor of 65
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java IsFactor
+ Enter the first number: 65
+ Enter the second number: 5
+ 5 is a factor of 65
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java IsFactor
+ Enter the first number: 8
+ Enter the second number: 3
+ 3 is not a factor of 8
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java IsFactor
+ Enter the first number: 3
+ Enter the second number: 8
+ 3 is not a factor of 8
+ 
+  ----jGRASP: operation complete.
+ 
