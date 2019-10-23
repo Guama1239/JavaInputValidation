@@ -1,0 +1,15 @@
+ 
+  ----jGRASP exec: java Operations
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java Operations
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java Operations
+ 34 * 67 is 2278
+ 3729 / 22 is 0
+ 
+  ----jGRASP: operation complete.
+ 
