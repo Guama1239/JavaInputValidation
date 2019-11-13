@@ -1,0 +1,295 @@
+ 
+  ----jGRASP exec: java Radix
+ 2 24 45 66 75 90 170 802 
+  ----jGRASP: operation complete.
+ 10-02
+ 
+  ----jGRASP exec: java WS7BProblem3
+ false
+ true
+ false
+ true
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java -Xnoagent -Djava.compiler=NONE -Xdebug -Xrunjdwp:transport=dt_socket,suspend=y,server=y WS7BProblem3
+  ----jGRASP: connected to debugger.
+ false
+ true
+ false
+ true
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java arraysample
+ 1 
+ 2 
+ 9 
+ 8 
+ 7 
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java arraysample
+ 7 8 6 10 6 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java arraysample
+ 6 7 10 8 5 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java arraysample2
+ Card # 1+Spades 9
+ Card # 2+Spades 2
+ Card # 3+Spades 5
+ Card # 4+Hearts 3
+ 1 7 7 3 2 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java arraysample2
+ Card # 1+Clubs Ace
+ Card # 2+Diamonds 6
+ Card # 3+Spades 10
+ Card # 4+Diamonds 3
+ 7 1 10 10 2 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java Radix
+ 2 24 45 66 75 90 170 802 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java Radix
+ 2 24 45 66 75 90 170 802 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java -Xnoagent -Djava.compiler=NONE -Xdebug -Xrunjdwp:transport=dt_socket,suspend=y,server=y WS7BProblem3
+  ----jGRASP: connected to debugger.
+ false
+ true
+ 
+  ----jGRASP: process ended by user.
+ 
+  ----jGRASP exec: java WS7BProblem3
+ false
+ true
+ false
+ true
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java arraysample2
+ Card # 1+Diamonds 5
+ Card # 2+Hearts 3
+ Card # 3+Clubs 3
+ Card # 4+Clubs 5
+ 2 4 9 7 7 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java arraysample
+ 1 1 5 9 9 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java arraysample
+ 4 1 10 7 6 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java arraysample
+ 6 4 10 7 3 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS7BProblem3
+ false
+ true
+ false
+ true
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java -Xnoagent -Djava.compiler=NONE -Xdebug -Xrunjdwp:transport=dt_socket,suspend=y,server=y WS8Problem1
+  ----jGRASP: connected to debugger.
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS8Problem1
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS8Problem1
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS8Problem1
+ 
+  ----jGRASP: operation complete.
+ 
+ 
+  ----jGRASP exec: java WS8Problem1
+ Enter an integer: 1
+ Enter an integer: 2
+ Enter an integer: 0
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS8Problem1
+ Enter an integer: 12
+ Enter an integer: 2
+ Enter an integer: 3
+ Enter an integer: 
+  ----jGRASP: process ended by user.
+ 
+  ----jGRASP exec: java -Xnoagent -Djava.compiler=NONE -Xdebug -Xrunjdwp:transport=dt_socket,suspend=y,server=y WS8Problem1
+  ----jGRASP: connected to debugger.
+ Enter an integer: 1
+ Enter an integer: 2
+ Enter an integer: 3
+ Enter an integer: 4
+ Enter an integer: 5
+ Enter an integer: 6
+ Enter an integer: 0
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS8Problem1
+ Enter an integer: 0
+ Multiples of 31
+ No multiples of 5
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java -Xnoagent -Djava.compiler=NONE -Xdebug -Xrunjdwp:transport=dt_socket,suspend=y,server=y WS8Problem1
+  ----jGRASP: connected to debugger.
+ Enter an integer: 0
+ Multiples of 31
+ No multiples of 5
+ 
+  ----jGRASP: operation complete.
+ 0
+ 
+  ----jGRASP exec: java -Xnoagent -Djava.compiler=NONE -Xdebug -Xrunjdwp:transport=dt_socket,suspend=y,server=y WS8Problem1
+  ----jGRASP: connected to debugger.
+ Enter an integer: 0
+ Multiples of 31
+ No multiples of 5
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java -Xnoagent -Djava.compiler=NONE -Xdebug -Xrunjdwp:transport=dt_socket,suspend=y,server=y WS8Problem1
+  ----jGRASP: connected to debugger.
+ Enter an integer: 0
+ Multiples of 31
+ No multiples of 5
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java -Xnoagent -Djava.compiler=NONE -Xdebug -Xrunjdwp:transport=dt_socket,suspend=y,server=y WS8Problem1
+  ----jGRASP: connected to debugger.
+ Enter an integer: 1
+ Enter an integer: 0
+ Multiples of 31
+ No multiples of 5
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS8Problem1
+ Enter an integer: 0
+ Multiples of 51
+ No multiples of 3
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS8Problem1
+ Enter an integer: 0
+ No multi0ples of 3 or 5
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS8Problem1
+ Enter an integer: 2
+ Enter an integer: 8
+ Enter an integer: 0
+ No multiples of 3 or 5
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS8Problem1
+ Enter an integer: -15
+ No multiples of 3 or 5
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS8Problem1
+ Enter an integer: 9
+ Enter an integer: 8
+ Enter an integer: 12
+ Enter an integer: -1
+ Multiples of 32
+ No multiples of 5
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS8Problem1
+ Enter an integer: 9
+ Enter an integer: 8
+ Enter an integer: 12
+ Enter an integer: -1
+ Multiples of 3: 2
+ No multiples of 5
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS8Problem1
+ Enter an integer: 11
+ Enter an integer: 10
+ Enter an integer: 20
+ Enter an integer: 85
+ Enter an integer: -2
+ Multiples of 53
+ No multiples of 3
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS8Problem1
+ Enter an integer: 11
+ Enter an integer: 10
+ Enter an integer: 20
+ Enter an integer: 85
+ Enter an integer: -2
+ Multiples of 5: 3
+ No multiples of 3
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS8Problem1
+ Enter an integer: 3
+ Enter an integer: 5
+ Enter an integer: 15
+ Enter an integer: 20
+ Enter an integer: -7
+ Multiples of 3: 2
+ Multiples of 5: 2
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java -Xnoagent -Djava.compiler=NONE -Xdebug -Xrunjdwp:transport=dt_socket,suspend=y,server=y WS8Problem1
+  ----jGRASP: connected to debugger.
+ Enter an integer: 3
+ Enter an integer: 5
+ Enter an integer: 15
+ Enter an integer: 20
+ Enter an integer: -7
+ Multiples of 3: 2
+ Multiples of 5: 2
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS8Problem1
+ Enter an integer: 3
+ Enter an integer: 5
+ Enter an integer: 15
+ Enter an integer: 20
+ Enter an integer: -7
+ Multiples of 3: 2
+ Multiples of 5: 3
+ 
+  ----jGRASP: operation complete.
+ 

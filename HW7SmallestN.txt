@@ -1,0 +1,42 @@
+ 
+  ----jGRASP exec: java HW7SmallestN
+ Enter a number larger tha 10: 2
+ Enter a number larger tha 10: 
+  ----jGRASP: process ended by user.
+ 
+  ----jGRASP exec: java HW7SmallestN
+ Enter a number larger tha 10: 10
+ The smallest value for n that gives n * n > 10 is 25
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HW7SmallestN
+ Enter a number larger tha 10: 10
+ The smallest value for n that gives n * n > 10 is 4
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HW7SmallestN
+ Enter a number larger tha 10: 25
+ The smallest value for n that gives n * n > 25 is 6
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HW7SmallestN
+ Enter a number larger tha 10: 20
+ The smallest value for n that gives n * n > 20 is 5
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HW7SmallestN
+ Enter a number larger tha 10: 20
+ The smallest value for n that gives n * n > 20 is 5
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HW7SmallestN
+ Enter a number larger tha 10: 25
+ The smallest value for n that gives n * n > 25 is 6
+ 
+  ----jGRASP: operation complete.
+ 

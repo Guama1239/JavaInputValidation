@@ -1,0 +1,143 @@
+ 
+  ----jGRASP exec: java -Xnoagent -Djava.compiler=NONE -Xdebug -Xrunjdwp:transport=dt_socket,suspend=y,server=y Problem6
+  ----jGRASP: connected to debugger.
+ Sum is: 6
+ Sum is: 18
+ Sum is: 2
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java -Xnoagent -Djava.compiler=NONE -Xdebug -Xrunjdwp:transport=dt_socket,suspend=y,server=y Problem6
+  ----jGRASP: connected to debugger.
+ Sum is: 6
+ Sum is: 18
+ Sum is: 2
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java Ws7randomGuess
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java Ws7randomGuess
+  Guess a number between 0 and 100: 5
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java Ws7randomGuess
+  Guess a number between 0 and 100: 5
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java Ws7randomGuess
+  Guess a number between 0 and 100: 5
+  Nope, sorry!!
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java Ws7randomGuess
+  Guess a number between 0 and 100: 55
+  Nope, sorry!! the correct number is: 55
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java Ws7randomGuess
+  Guess a number between 0 and 100: 22
+  Nope, sorry!! the correct number is: 15
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java Ws7randomGuess
+  Guess a number between 0 and 100: 100
+  Nope, sorry!! the correct number is: 79
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java Ws7randomGuess
+  Guess a number between 0 and 100: 2
+  Nope, sorry!! the correct number is: 21
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java Ws7randomGuess
+  Guess a number between 0 and 100: 99
+  Nope, sorry!! the correct number is: 38
+ 
+  ----jGRASP: operation complete.
+ 4
+ 
+  ----jGRASP exec: java Ws7randomGuess
+  Guess a number between 0 and 100: 48
+  Nope, sorry!! the correct number is: 69
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java Ws7randomGuess
+  Guess a number between 0 and 100: 58
+  Nope, sorry!! the correct number is: 97
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java Ws7randomGuess
+  Guess a number between 0 and 100: 44
+  Nope, sorry!! the correct number is: 13
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java Ws7randomGuess
+  Guess a number between 0 and 100: 4546
+  Nope, sorry!! the correct number is: 94
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java Ws7randomGuess
+  Guess a number between 0 and 100: 25
+  Nope, sorry!! the correct number is: 81
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java Ws7randomGuess
+  Guess a number between 0 and 100: 47
+  Nope, sorry!! the correct number is: 25
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java Ws7randomGuess
+  Guess a number between 0 and 100: 52
+  Nope, sorry!! the correct number is: 14
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java Ws7evenOdd
+ Enter and integer: 27
+ 27 is not even
+ 27 is not negative
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java Ws7evenOdd
+ Enter and integer: 2
+ 2 is not negative
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java Ws7evenOdd
+ Enter and integer: -4
+ -4 is even and negative
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java Ws7evenOdd
+ Enter and integer: -1
+ -1 is even and negative
+ 
+  ----jGRASP: operation complete.
+ 3
+ 
+  ----jGRASP exec: java Ws7evenOdd
+ Enter and integer: 3
+ 3 is not even
+ 3 is not negative
+ 
+  ----jGRASP: operation complete.
+ 

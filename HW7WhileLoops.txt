@@ -1,0 +1,79 @@
+ 
+  ----jGRASP exec: java HW7WhileLoops
+ Enter a score between 0 and 100 or -1 to exit: -1
+ Exception in thread "main" java.lang.ArithmeticException: / by zero
+ 	at HW7WhileLoops.main(HW7WhileLoops.java:28)
+ 
+  ----jGRASP wedge2: exit code for process is 1.
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HW7WhileLoops
+ Enter a score between 0 and 100 or -1 to exit: 2
+ Enter a score between 0 and 100 or -1 to exit: 2
+ Enter a score between 0 and 100 or -1 to exit: -1
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HW7WhileLoops
+ Enter a score between 0 and 100 or -1 to exit: 87.3
+ Exception in thread "main" java.util.InputMismatchException
+ 	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+ 	at java.base/java.util.Scanner.next(Scanner.java:1594)
+ 	at java.base/java.util.Scanner.nextInt(Scanner.java:2258)
+ 	at java.base/java.util.Scanner.nextInt(Scanner.java:2212)
+ 	at HW7WhileLoops.main(HW7WhileLoops.java:23)
+ 
+  ----jGRASP wedge2: exit code for process is 1.
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HW7WhileLoops
+ Enter a score between 0 and 100 or -1 to exit: 80
+ Enter a score between 0 and 100 or -1 to exit: 70
+ Enter a score between 0 and 100 or -1 to exit: -1
+ The average is 75
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HW7WhileLoops
+ Enter a score between 0 and 100 or -1 to exit: -1
+ The average is 0
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HW7WhileLoops
+ Enter a score between 0 and 100 or -1 to exit: 80
+ Enter a score between 0 and 100 or -1 to exit: 70
+ Enter a score between 0 and 100 or -1 to exit: -1
+ The average is 75
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HW7WhileLoops
+ Enter a score between 0 and 100 or -1 to exit: 87.3
+ Exception in thread "main" java.util.InputMismatchException
+ 	at java.base/java.util.Scanner.throwFor(Scanner.java:939)
+ 	at java.base/java.util.Scanner.next(Scanner.java:1594)
+ 	at java.base/java.util.Scanner.nextInt(Scanner.java:2258)
+ 	at java.base/java.util.Scanner.nextInt(Scanner.java:2212)
+ 	at HW7WhileLoops.main(HW7WhileLoops.java:23)
+ 
+  ----jGRASP wedge2: exit code for process is 1.
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HW7WhileLoops
+ Enter a score between 0 and 100 or -1 to exit: 87.3
+ Enter a score between 0 and 100 or -1 to exit: 77
+ Enter a score between 0 and 100 or -1 to exit: 92.1
+ Enter a score between 0 and 100 or -1 to exit: -1
+ The average is 85.46666666666665
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HW7WhileLoops
+ Enter a score between 0 and 100 or -1 to exit: 80
+ Enter a score between 0 and 100 or -1 to exit: 70
+ Enter a score between 0 and 100 or -1 to exit: -1
+ The average is 75.0
+ 
+  ----jGRASP: operation complete.
+ 

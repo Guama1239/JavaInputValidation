@@ -1,0 +1,55 @@
+ 
+  ----jGRASP exec: java Ws7evenOdd
+ Enter and integer: 85
+ 85 is not even
+ 85 is not negative
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS7BProblem1
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS7BProblem1
+ Heads: 500093
+ Tails: 499907
+ 500093 Heads + 499907 Tails is 1000000 flips
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS7BProblem1
+ Heads: 500764
+ Tails: 499236
+ 500764 Heads + 499236 Tails is 1000000 flips
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java -Xnoagent -Djava.compiler=NONE -Xdebug -Xrunjdwp:transport=dt_socket,suspend=y,server=y WS7BProblem1
+  ----jGRASP: connected to debugger.
+ Heads: 500320
+ Tails: 499680
+ 500320 Heads + 499680 Tails is 1000000 flips
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS7BProblem1
+ Heads: 499788
+ Tails: 500212
+ 499788 Heads + 500212 Tails is 1000000 flips
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS7BProblem1
+ Heads: 500653
+ Tails: 499347
+ 500653 Heads + 499347 Tails is 1000000 flips
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS7BProblem1
+ Heads: 499796
+ Tails: 500204
+ 499796 Heads + 500204 Tails is 1000000 flips
+ 
+  ----jGRASP: operation complete.
+ 

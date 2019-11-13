@@ -1,0 +1,65 @@
+ 
+  ----jGRASP exec: java -Xnoagent -Djava.compiler=NONE -Xdebug -Xrunjdwp:transport=dt_socket,suspend=y,server=y WS8Problem2
+  ----jGRASP: connected to debugger.
+ false
+ false
+ false
+ true
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java -Xnoagent -Djava.compiler=NONE -Xdebug -Xrunjdwp:transport=dt_socket,suspend=y,server=y WS8Problem2
+  ----jGRASP: connected to debugger.
+ false
+ 
+  ----jGRASP: process ended by user.
+ 
+  ----jGRASP exec: java -Xnoagent -Djava.compiler=NONE -Xdebug -Xrunjdwp:transport=dt_socket,suspend=y,server=y WS8Problem2
+  ----jGRASP: connected to debugger.
+ 
+  ----jGRASP: process ended by user.
+ 
+  ----jGRASP exec: java -Xnoagent -Djava.compiler=NONE -Xdebug -Xrunjdwp:transport=dt_socket,suspend=y,server=y WS8Problem2
+  ----jGRASP: connected to debugger.
+ false
+ false
+ false
+ false
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java -Xnoagent -Djava.compiler=NONE -Xdebug -Xrunjdwp:transport=dt_socket,suspend=y,server=y WS8Problem2
+  ----jGRASP: connected to debugger.
+ 
+  ----jGRASP: process ended by user.
+ 
+  ----jGRASP exec: java WS8Problem2
+ false
+ false
+ false
+ false
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java -Xnoagent -Djava.compiler=NONE -Xdebug -Xrunjdwp:transport=dt_socket,suspend=y,server=y WS8Problem2
+  ----jGRASP: connected to debugger.
+ 
+  ----jGRASP: process ended by user.
+ 
+  ----jGRASP exec: java -Xnoagent -Djava.compiler=NONE -Xdebug -Xrunjdwp:transport=dt_socket,suspend=y,server=y WS8Problem2
+  ----jGRASP: connected to debugger.
+ true
+ Exception in thread "main" java.lang.ArithmeticException: / by zero
+ 	at WS8Problem2.divideSelf(WS8Problem2.java:30)
+ 	at WS8Problem2.main(WS8Problem2.java:16)
+ 
+  ----jGRASP wedge2: exit code for process is 1.
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java -Xnoagent -Djava.compiler=NONE -Xdebug -Xrunjdwp:transport=dt_socket,suspend=y,server=y WS8Problem2
+  ----jGRASP: connected to debugger.
+ true
+ false
+ true
+ false
+ 

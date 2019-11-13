@@ -1,0 +1,23 @@
+ 
+  ----jGRASP exec: java Radix
+ 2 24 45 66 75 90 170 802 
+  ----jGRASP: operation complete.
+ 10-02
+ 
+  ----jGRASP exec: java WS7BProblem3
+ false
+ true
+ false
+ true
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java -Xnoagent -Djava.compiler=NONE -Xdebug -Xrunjdwp:transport=dt_socket,suspend=y,server=y WS7BProblem3
+  ----jGRASP: connected to debugger.
+ false
+ true
+ false
+ true
+ 
+  ----jGRASP: operation complete.
+ 

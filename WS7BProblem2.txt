@@ -1,0 +1,452 @@
+ 
+  ----jGRASP exec: java Ws7evenOdd
+ Enter and integer: 85
+ 85 is not even
+ 85 is not negative
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS7BProblem1
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS7BProblem1
+ Heads: 500093
+ Tails: 499907
+ 500093 Heads + 499907 Tails is 1000000 flips
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS7BProblem1
+ Heads: 500764
+ Tails: 499236
+ 500764 Heads + 499236 Tails is 1000000 flips
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java -Xnoagent -Djava.compiler=NONE -Xdebug -Xrunjdwp:transport=dt_socket,suspend=y,server=y WS7BProblem1
+  ----jGRASP: connected to debugger.
+ Heads: 500320
+ Tails: 499680
+ 500320 Heads + 499680 Tails is 1000000 flips
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS7BProblem1
+ Heads: 499788
+ Tails: 500212
+ 499788 Heads + 500212 Tails is 1000000 flips
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS7BProblem1
+ Heads: 500653
+ Tails: 499347
+ 500653 Heads + 499347 Tails is 1000000 flips
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS7BProblem1
+ Heads: 499796
+ Tails: 500204
+ 499796 Heads + 500204 Tails is 1000000 flips
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS7BProblem2
+ Enter a positive integer: 0
+ Big steps: 0
+ Small steps: 0
+ Ending value: 0
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS7BProblem2
+ Enter a positive integer: -10
+ Big steps: 0
+ Small steps: 0
+ Ending value: -10
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS7BProblem2
+ Enter a positive integer: 71
+ Big steps: 0
+ Small steps: 0
+ Ending value: 71
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS7BProblem2
+ Enter a positive integer: 5
+ Enter a positive integer: 5
+ Big steps: 1
+ Small steps: 0
+ Ending value: 5
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS7BProblem2
+ Enter a positive integer: -10
+ Big steps: 0
+ Small steps: 0
+ Ending value: -10
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS7BProblem2
+ Enter a positive integer: 
+  ----jGRASP: process ended by user.
+ 
+  ----jGRASP exec: java WS7BProblem2
+ Enter a positive integer: -10
+ Big steps: 0
+ Small steps: 0
+ Ending value: -10
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS7BProblem2
+ Enter a positive integer: 71
+ Enter a positive integer: 72
+ Big steps: 1
+ Small steps: 0
+ Ending value: 72
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS7BProblem2
+ Enter a positive integer: 45
+ Enter a positive integer: 62
+ Big steps: 1
+ Small steps: 0
+ Ending value: 62
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS7BProblem2
+ Enter a positive integer: -1
+ Big steps: 0
+ Small steps: 0
+ Ending value: -1
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS7BProblem2
+ Enter a positive integer: 0
+ Big steps: 0
+ Small steps: 0
+ Ending value: 0
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS7BProblem2
+ Enter a positive integer: 1
+ Enter a positive integer: 1
+ Big steps: 0
+ Small steps: 1
+ Ending value: 1
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS7BProblem2
+ Enter a positive integer: 5
+ Enter a positive integer: 25
+ Big steps: 1
+ Small steps: 0
+ Ending value: 25
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS7BProblem2
+ Enter a positive integer: -10
+ Big steps: 0
+ Small steps: 0
+ Ending value: -10
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS7BProblem2
+ Enter a positive integer: 71
+ Enter a positive integer: 72
+ Big steps: 1
+ Small steps: 0
+ Ending value: 0
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS7BProblem2
+ Enter a positive integer: 5
+ Enter a positive integer: 25
+ Big steps: 1
+ Small steps: 0
+ Ending value: 0
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS7BProblem2
+ Enter a positive integer: 71
+ Enter a positive integer: 72
+ Enter a positive integer: 72
+ Big steps: 1
+ Small steps: 0
+ Ending value: 72
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS7BProblem2
+ Enter a positive integer: -10
+ Big steps: 0
+ Small steps: 0
+ Ending value: -10
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS7BProblem2
+ Enter a positive integer: 45
+ Enter a positive integer: 62
+ Enter a positive integer: 0
+ Big steps: 1
+ Small steps: 0
+ Ending value: 0
+ 
+  ----jGRASP: operation complete.
+ 1
+ -3
+ 
+  ----jGRASP exec: java WS7BProblem2
+ Enter a positive integer: 1
+ Enter a positive integer: -3
+ Big steps: 0
+ Small steps: 0
+ Ending value: -3
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS7BProblem2
+ Enter a positive integer: 4
+ Enter a positive integer: 12
+ Enter a positive integer: 13
+ Enter a positive integer: 15
+ Enter a positive integer: 21
+ Enter a positive integer: 26
+ Enter a positive integer: 21
+ Enter a positive integer: 21
+ Big steps: 2
+ Small steps: 4
+ Ending value: 21
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS7BProblem2
+ Enter a positive integer: 71
+ Enter a positive integer: 72
+ Enter a positive integer: 72
+ Big steps: 1
+ Small steps: 0
+ Ending value: 72
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java -Xnoagent -Djava.compiler=NONE -Xdebug -Xrunjdwp:transport=dt_socket,suspend=y,server=y WS7BProblem2
+  ----jGRASP: connected to debugger.
+ Enter a positive integer: 71
+ Enter a positive integer: 72
+ Enter a positive integer: 72
+ Big steps: 1
+ Small steps: 0
+ Ending value: 72
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS7BProblem2
+ Enter a positive integer: 
+  ----jGRASP: process ended by user.
+ 
+  ----jGRASP exec: java -Xnoagent -Djava.compiler=NONE -Xdebug -Xrunjdwp:transport=dt_socket,suspend=y,server=y WS7BProblem2
+  ----jGRASP: connected to debugger.
+ Enter a positive integer: 71
+ Enter a positive integer: 72
+ Enter a positive integer: 72
+ Big steps: 1
+ Small steps: 0
+ Ending value: 72
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java -Xnoagent -Djava.compiler=NONE -Xdebug -Xrunjdwp:transport=dt_socket,suspend=y,server=y WS7BProblem2
+  ----jGRASP: connected to debugger.
+ Enter a positive integer: 71
+ Enter a positive integer: 72
+ Big steps: 0
+ Small steps: 1
+ Ending value: 1
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java -Xnoagent -Djava.compiler=NONE -Xdebug -Xrunjdwp:transport=dt_socket,suspend=y,server=y WS7BProblem2
+  ----jGRASP: connected to debugger.
+ Enter a positive integer: 71
+ Enter a positive integer: 72
+ Enter a positive integer: 72
+ Big steps: 0
+ Small steps: 1
+ Ending value: 72
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS7BProblem2
+ Enter a positive integer: -10
+ Big steps: 0
+ Small steps: 0
+ Ending value: -10
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS7BProblem2
+ Enter a positive integer: 71
+ Enter a positive integer: 72
+ Enter a positive integer: 72
+ Big steps: 0
+ Small steps: 1
+ Ending value: 72
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS7BProblem2
+ Enter a positive integer: 45
+ Enter a positive integer: 62
+ Enter a positive integer: 0
+ Big steps: 1
+ Small steps: 0
+ Ending value: 0
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS7BProblem2
+ Enter a positive integer: 1
+ Big steps: 0
+ Small steps: 0
+ Ending value: 1
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java -Xnoagent -Djava.compiler=NONE -Xdebug -Xrunjdwp:transport=dt_socket,suspend=y,server=y WS7BProblem2
+  ----jGRASP: connected to debugger.
+ Enter a positive integer: 1
+ Big steps: 0
+ Small steps: 0
+ Ending value: 1
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java -Xnoagent -Djava.compiler=NONE -Xdebug -Xrunjdwp:transport=dt_socket,suspend=y,server=y WS7BProblem2
+  ----jGRASP: connected to debugger.
+ Enter a positive integer: 1
+ 
+  ----jGRASP: process ended by user.
+ 
+  ----jGRASP exec: java -Xnoagent -Djava.compiler=NONE -Xdebug -Xrunjdwp:transport=dt_socket,suspend=y,server=y WS7BProblem2
+  ----jGRASP: connected to debugger.
+ Enter a positive integer: 1
+ 
+  ----jGRASP: process ended by user.
+ 
+  ----jGRASP exec: java -Xnoagent -Djava.compiler=NONE -Xdebug -Xrunjdwp:transport=dt_socket,suspend=y,server=y WS7BProblem2
+  ----jGRASP: connected to debugger.
+ Enter a positive integer: 1
+ Enter a positive integer: -3
+ Big steps: 0
+ Small steps: 0
+ Ending value: -3
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java -Xnoagent -Djava.compiler=NONE -Xdebug -Xrunjdwp:transport=dt_socket,suspend=y,server=y WS7BProblem2
+  ----jGRASP: connected to debugger.
+ Enter a positive integer: 4
+ Enter a positive integer: 12
+ Enter a positive integer: 13
+ Enter a positive integer: 15
+ Enter a positive integer: 21
+ Enter a positive integer: 26
+ Enter a positive integer: 21
+ Big steps: 2
+ Small steps: 3
+ Ending value: 21
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS7BProblem2
+ Enter a positive integer: 5
+ Enter a positive integer: 6
+ Enter a positive integer: 5
+ Big steps: 0
+ Small steps: 1
+ Ending value: 5
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS7BProblem2
+ Enter a positive integer: 4
+ Enter a positive integer: 12
+ Enter a positive integer: 13
+ Enter a positive integer: 15
+ Enter a positive integer: 21
+ Enter a positive integer: 26
+ Enter a positive integer: 21
+ Big steps: 2
+ Small steps: 3
+ Ending value: 21
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java -Xnoagent -Djava.compiler=NONE -Xdebug -Xrunjdwp:transport=dt_socket,suspend=y,server=y WS7BProblem2
+  ----jGRASP: connected to debugger.
+ Enter a positive integer: 4
+ Enter a positive integer: 62
+ Enter a positive integer: 4
+ Big steps: 1
+ Small steps: 0
+ Ending value: 4
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java -Xnoagent -Djava.compiler=NONE -Xdebug -Xrunjdwp:transport=dt_socket,suspend=y,server=y WS7BProblem2
+  ----jGRASP: connected to debugger.
+ Enter a positive integer: 4
+ Enter a positive integer: 62
+ Enter a positive integer: 5
+ Big steps: 1
+ Small steps: 0
+ Ending value: 5
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS7BProblem2
+ Enter a positive integer: 4
+ Enter a positive integer: 12
+ Enter a positive integer: 13
+ Enter a positive integer: 15
+ Enter a positive integer: 21
+ Enter a positive integer: 2
+ Big steps: 2
+ Small steps: 2
+ Ending value: 2
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS7BProblem2
+ Enter a positive integer: 4
+ Enter a positive integer: 12
+ Enter a positive integer: 13
+ Enter a positive integer: 15
+ Enter a positive integer: 21
+ Enter a positive integer: 26
+ Enter a positive integer: 21
+ Big steps: 2
+ Small steps: 3
+ Ending value: 21
+ 
+  ----jGRASP: operation complete.
+ 
