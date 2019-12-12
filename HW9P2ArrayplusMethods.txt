@@ -1,0 +1,29 @@
+ 
+  ----jGRASP exec: java HW9P2ArrayplusMethods
+ 6
+ 47
+ 4
+ 0
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HW9P2ArrayplusMethods
+ 6
+ 7
+ 5
+ 0
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HW9P2ArrayplusMethods
+ 6
+ 7
+ 25
+ 0
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HW9P2ArrayplusMethods
+ 6
+ 7
+ 23
+ 0
+  ----jGRASP: operation complete.
+ 

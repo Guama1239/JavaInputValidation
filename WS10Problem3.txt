@@ -1,0 +1,14 @@
+ 
+  ----jGRASP exec: java WS10Problem3
+ 12, 9, 8, 7, 
+ 6, 5, 4, 3, 
+ 0, 4, 2, 1, 
+ 
+ 12, 5, 
+ 3, 9, 
+ 20, 7, 
+ 8, 2, 
+ 
+ 
+  ----jGRASP: operation complete.
+ 

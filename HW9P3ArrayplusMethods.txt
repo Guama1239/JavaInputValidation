@@ -1,0 +1,67 @@
+ 
+  ----jGRASP exec: java HW9P2ArrayplusMethods
+ 6
+ 47
+ 4
+ 0
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HW9P2ArrayplusMethods
+ 6
+ 7
+ 5
+ 0
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HW9P2ArrayplusMethods
+ 6
+ 7
+ 25
+ 0
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HW9P2ArrayplusMethods
+ 6
+ 7
+ 23
+ 0
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HW9P3ArrayplusMethods
+ false
+ false
+ Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+ 	at HW9P3ArrayplusMethods.commonEnd(HW9P3ArrayplusMethods.java:26)
+ 	at HW9P3ArrayplusMethods.main(HW9P3ArrayplusMethods.java:19)
+ 
+  ----jGRASP wedge2: exit code for process is 1.
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HW9P3ArrayplusMethods
+ false
+ false
+ false
+ false
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HW9P3ArrayplusMethods
+ true
+ true
+ true
+ true
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HW9P3ArrayplusMethods
+ true
+ true
+ true
+ true
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HW9P3ArrayplusMethods
+ true
+ true
+ false
+ true
+  ----jGRASP: operation complete.
+ 

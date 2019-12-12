@@ -1,0 +1,121 @@
+ 
+  ----jGRASP exec: java HW9P2ArrayplusMethods
+ 6
+ 47
+ 4
+ 0
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HW9P2ArrayplusMethods
+ 6
+ 7
+ 5
+ 0
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HW9P2ArrayplusMethods
+ 6
+ 7
+ 25
+ 0
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HW9P2ArrayplusMethods
+ 6
+ 7
+ 23
+ 0
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HW9P3ArrayplusMethods
+ false
+ false
+ Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+ 	at HW9P3ArrayplusMethods.commonEnd(HW9P3ArrayplusMethods.java:26)
+ 	at HW9P3ArrayplusMethods.main(HW9P3ArrayplusMethods.java:19)
+ 
+  ----jGRASP wedge2: exit code for process is 1.
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HW9P3ArrayplusMethods
+ false
+ false
+ false
+ false
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HW9P3ArrayplusMethods
+ true
+ true
+ true
+ true
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HW9P3ArrayplusMethods
+ true
+ true
+ true
+ true
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HW9P3ArrayplusMethods
+ true
+ true
+ false
+ true
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HW9P4ArrayplusMethods
+ [I@5305068a
+ [I@1f32e575
+ [I@279f2327
+ [I@2ff4acd0
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HW9P4ArrayplusMethods
+ [I@5305068a
+ [I@1f32e575
+ [I@279f2327
+ [I@2ff4acd0
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java -Xnoagent -Djava.compiler=NONE -Xdebug -Xrunjdwp:transport=dt_socket,suspend=y,server=y HW9P4ArrayplusMethods
+  ----jGRASP: connected to debugger.
+ [I@2db0f6b2
+ [I@3cd1f1c8
+ [I@3a4afd8d
+ [I@1996cd68
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HW9P4ArrayplusMethods
+ [I@5305068a
+ [I@1f32e575
+ [I@279f2327
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java -Xnoagent -Djava.compiler=NONE -Xdebug -Xrunjdwp:transport=dt_socket,suspend=y,server=y HW9P4ArrayplusMethods
+  ----jGRASP: connected to debugger.
+ [I@2db0f6b2
+ [I@3cd1f1c8
+ 
+  ----jGRASP: process ended by user.
+ 
+  ----jGRASP exec: java Middle
+ 2, 3
+ 3, 2
+ 1, 2
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HW9P4ArrayplusMethods
+ 2, 3
+ 3, 2
+ 1, 22
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HW9P4ArrayplusMethods
+ 2, 3
+ 3, 2
+ 1, 22
+  ----jGRASP: operation complete.
+ 

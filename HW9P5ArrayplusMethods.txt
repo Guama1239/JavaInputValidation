@@ -1,0 +1,8 @@
+ 
+  ----jGRASP exec: java HW9P5ArrayplusMethods
+ 7
+ 8
+ 10
+ 
+  ----jGRASP: operation complete.
+ 

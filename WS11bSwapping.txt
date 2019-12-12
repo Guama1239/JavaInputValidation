@@ -1,0 +1,41 @@
+ 
+  ----jGRASP exec: java WS11bSwapping
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java -Xnoagent -Djava.compiler=NONE -Xdebug -Xrunjdwp:transport=dt_socket,suspend=y,server=y WS11bSwapping
+  ----jGRASP: connected to debugger.
+ Total numbers to input? 2
+ Enter numbers: 84
+ 22
+ 22 84 
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java WS11bSwapping
+ Total numbers to input? 
+  ----jGRASP: process ended by user.
+ 
+  ----jGRASP exec: java -Xnoagent -Djava.compiler=NONE -Xdebug -Xrunjdwp:transport=dt_socket,suspend=y,server=y WS11bSwapping
+  ----jGRASP: connected to debugger.
+ Total numbers to input? 4
+ Enter numbers: 1 2 3 4
+ 4 2 3 1 
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java -Xnoagent -Djava.compiler=NONE -Xdebug -Xrunjdwp:transport=dt_socket,suspend=y,server=y WS11bSwapping
+  ----jGRASP: connected to debugger.
+ Total numbers to input? 5
+ Enter numbers: 8
+ 6
+ 7
+ 9
+ 5
+ 5
+ 4
+ 4
+ 5 6 7 9 8 
+ 
+  ----jGRASP: operation complete.
+ 

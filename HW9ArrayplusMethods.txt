@@ -1,0 +1,77 @@
+ 
+  ----jGRASP exec: java HW9ArrayplusMethods
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HW9ArrayplusMethods
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java -Xnoagent -Djava.compiler=NONE -Xdebug -Xrunjdwp:transport=dt_socket,suspend=y,server=y HW9ArrayplusMethods
+  ----jGRASP: connected to debugger.
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java -Xnoagent -Djava.compiler=NONE -Xdebug -Xrunjdwp:transport=dt_socket,suspend=y,server=y HW9ArrayplusMethods
+  ----jGRASP: connected to debugger.
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java -Xnoagent -Djava.compiler=NONE -Xdebug -Xrunjdwp:transport=dt_socket,suspend=y,server=y HW9ArrayplusMethods
+  ----jGRASP: connected to debugger.
+ 
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HW9ArrayplusMethods
+ false
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HW9ArrayplusMethods
+ false
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HW9ArrayplusMethods
+ false
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HW9ArrayplusMethods
+ false
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HW9ArrayplusMethods
+ false
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HW9ArrayplusMethods
+ falsetruetrueException in thread "main" java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+ 	at HW9ArrayplusMethods.sameFirstLast(HW9ArrayplusMethods.java:26)
+ 	at HW9ArrayplusMethods.main(HW9ArrayplusMethods.java:20)
+ 
+  ----jGRASP wedge2: exit code for process is 1.
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HW9ArrayplusMethods
+ false
+ true
+ true
+ Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+ 	at HW9ArrayplusMethods.sameFirstLast(HW9ArrayplusMethods.java:26)
+ 	at HW9ArrayplusMethods.main(HW9ArrayplusMethods.java:20)
+ 
+  ----jGRASP wedge2: exit code for process is 1.
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HW9ArrayplusMethods
+ false
+ true
+ true
+ false
+  ----jGRASP: operation complete.
+ 
+  ----jGRASP exec: java HW9ArrayplusMethods
+ false
+ true
+ true
+ false
+  ----jGRASP: operation complete.
+ 
